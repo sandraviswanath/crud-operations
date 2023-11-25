@@ -1,0 +1,7 @@
+const data =[{id:'1',image:'f1.jpg',name:'Cartoon Astronaut T-Shirts',price:'$118.19',details:'Multicoloured printed casual shirt, has a spread collar, button placket, and curved hem.Its crafted from a soft woven fabric and boasts traditional details like a classic fit, Cuban collar, button-down front, and short sleeves.'},
+{id:'2', image:'f2.jpg',name:'Cartoon Astronaut T-Shirts',price:'$118.19', details:'Multicoloured printed casual shirt, has a spread collar, button placket, and curved hem.Its crafted from a soft woven fabric and boasts traditional details like a classic fit, Cuban collar, button-down front, and short sleeves.'},
+{ id:'3', image:'f3.jpg',name:'Cartoon Astronaut T-Shirts',price:'$118.19',details:'Multicoloured printed casual shirt, has a spread collar, button placket, and curved hem.Its crafted from a soft woven fabric and boasts traditional details like a classic fit, Cuban collar, button-down front, and short sleeves.'},
+{ id:'4', image:'f4.jpg',name:'Cartoon Astronaut T-Shirts',price:'$118.19',details:'Multicoloured printed casual shirt, has a spread collar, button placket, and curved hem.Its crafted from a soft woven fabric and boasts traditional details like a classic fit, Cuban collar, button-down front, and short sleeves.'}
+]
+
+export default data;
